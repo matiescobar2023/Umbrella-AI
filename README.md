@@ -6,3 +6,7 @@ Entregas año 2023
 * Escobar Matías Leonel, <meescobarf87@gmail.com>
 * Miranda Francisco, <francisconehuenmiranda@gmail.com>
 * Panonto Valentin, <valentincarp66@gmail.com>
+
+
+[Este es mi linkedin](https://www.youtube.com/watch?v=8EQRGf9GQPU)
+<hr>
