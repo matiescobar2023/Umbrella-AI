@@ -11,7 +11,7 @@ Entregas año 2023
 [Este es mi linkedin](https://www.youtube.com/watch?v=8EQRGf9GQPU)
 
 
-# AGUANTE BOCA
+[Página Importante](https://www.w3schools.com/tags/)
 <hr>
 <hr>
 <vr>
