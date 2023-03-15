@@ -38,4 +38,4 @@ Entregas año 2023
 <hr>
 <vr>
 <hr>
-![messi chiquito](\Users\Juan\Pictures\messi_chiquito.png)
+![messi chiquito](/Users/Juan/Pictures/messi_chiquito.png)
