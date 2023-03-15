@@ -9,4 +9,4 @@ Entregas año 2023
 
 
 [Este es mi linkedin](https://www.youtube.com/watch?v=8EQRGf9GQPU)
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-fibav&psig=AOvVaw0dU0jBZGSGJUuQMmW5RX1p&ust=1679008263365000&source=images&cd=vfe&ved=2ahUKEwja-5Wqh9_9AhV8OLkGHY6dDUEQr4kDegQIARBz
+<hr>
