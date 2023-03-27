@@ -13,30 +13,3 @@ Entregas año 2023
 
 [Página Importante](https://www.w3schools.com/tags/)
 <hr>
-<hr>
-<vr>
-<hr>
-<hr>
-<hr>
-<vr>
-<hr>
-<hr>
-<hr>
-<vr>
-<hr>
-<hr>
-<hr>
-<vr>
-<hr>
-<hr>
-<hr>
-<vr>
-<hr><hr>
-<hr>
-<vr>
-<hr><hr>
-<hr>
-<vr>
-<hr>
-
-![messi chiquito](/messi_chiquito.png)
