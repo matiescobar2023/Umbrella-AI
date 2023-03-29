@@ -8,8 +8,8 @@ Entregas año 2023
 * Panonto Valentin, <valentincarp66@gmail.com>
 
 
-[Este es mi linkedin](https://www.youtube.com/watch?v=8EQRGf9GQPU)
+<!--[Este es mi linkedin](https://www.youtube.com/watch?v=8EQRGf9GQPU)-->
 
 
-/*(https://www.w3schools.com/tags/)*/
+<!--(https://www.w3schools.com/tags/)-->
 <hr>
