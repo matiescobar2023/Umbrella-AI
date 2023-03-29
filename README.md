@@ -1,5 +1,5 @@
 # Umbrella AI
-## Técnicas y Herramientas Modernas 1
+## Técnicas y Herramientas Modernas I
 Entregas año 2023
 * Borquez Perez Juan, <borquez.juan00@gmail.com>
 * Escobar Matías Leonel, <meescobarf87@gmail.com>
